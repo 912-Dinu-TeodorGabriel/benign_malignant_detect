@@ -8,11 +8,11 @@ The project includes:
 
 - **Dataset**: Utilizes a dataset comprising 13,000 training images and 1,000 testing images for model training and evaluation.
 - **Model Training**: Trains a convolutional neural network (CNN) model to classify images as malignant or benign.
-- **Performance Evaluation**: Achieves an accuracy of 82% on the testing dataset, demonstrating the model's effectiveness in distinguishing between malignant and benign cases.
+- **Performance Evaluation**: Achieves an accuracy of 87% on the testing dataset, demonstrating the model's effectiveness in distinguishing between malignant and benign cases.
 
 ## Validation with Additional Dataset
 
-The model's performance is further assessed using an independent dataset consisting of 33,000 images. Here, the model achieves an accuracy of 85%, indicating its ability to generalize well across larger and diverse datasets.
+The model's performance is further assessed using an independent dataset consisting of 33,000 images. Here, the model achieves an accuracy of 93%, indicating its ability to generalize well across larger and diverse datasets.
 
 ## Key Features
 
